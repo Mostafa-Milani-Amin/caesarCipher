@@ -5,3 +5,5 @@ const caesarCipher = (str, n) =>
             "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"[
             "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz".indexOf(c) + n]
     );
+
+module.exports = { caesarCipher };
