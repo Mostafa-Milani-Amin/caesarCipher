@@ -1,5 +1,5 @@
 {
-  "name": "caesarcipher",
+  "name": "caesarcipher2",
   "version": "1.0.0",
   "description": "Caesar cipher for the Latin alphabet (26 letters), with key \"n\" (0 ≤ n ≤ 26).",
   "main": "index.js",
@@ -30,7 +30,9 @@
     "coded",
     "decoded",
     "codification",
-    "decoding"
+    "decoding",
+    "caesarcipher",
+    "caesarcipher2"
   ],
   "author": "Mostafa Milani Amin",
   "license": "MIT",
